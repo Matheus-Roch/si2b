@@ -1,0 +1,39 @@
+            Dupla
+ Matheus Gomes da Rocha RA:1901687
+ D
+----------------------------------
+
+ analise 
+ O que o cliente precisa? 
+
+ inovarcar é uma empresa quer entrar no mercado fazendo viagens com carros voadores, precisamo de um sistema que faça cotação de viagens e que busque de um ponto ‘a’ até o ponto ‘b’ onde o  preço máximo a se pagar por viagem é de 10 dolares, também é necessário que no sistema exista formas de pagamentos. 
+
+ Design: 
+
+ O programa totalmente web 
+ Utilizaremos as tecnologias css e JavaScript para melhor aparece-nos e design do programa e comodidade do usuário
+
+ 
+ Codificação
+ quais linguagens vamos utilizar nesta plataforma? 
+
+ Para frontend utilizaremos javascript e backhand python.
+
+ Teste: 
+
+ Realizaremos testes de ;
+ 
+ Funcional(caixa branca e preta)
+ Segurança
+ Performance
+ Aplicações
+ Teste de lógica
+ Usabilidade
+ Stress
+  
+ Operação
+ como funcionará a parte operacional?
+ iremos implementar e acompanhar diariamente a performance do programa e resolver os bugs mais rápido possível onde terá atualizações junta a inteligência artificial para ter uma maior eficácia no produto 
+
+
+--
